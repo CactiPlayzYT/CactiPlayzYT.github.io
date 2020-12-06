@@ -46,3 +46,20 @@ ul li.active a{
     width: 160px;
     height: auto;
 }
+
+.contac{
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+
+.Contactus{
+    text-decoration: underline;
+    color: #fff;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
